@@ -12,7 +12,7 @@ Estudante do Ensino Médio (conclusão em 12/2026) em busca de oportunidades em 
 
 ### 🛠️ Habilidades
 
-`Lógica de Programação` `HTML` `CSS` `JavaScript` `Pacote Office Avançado` `Windows / Hardware / Marketing`
+`Lógica de Programação` `HTML` `CSS` `JavaScript` `Pacote Office Avançado` `Windows / Hardware / Marketing` `Inglês Avançado / Espanhol Básico`
 
 ---
 
