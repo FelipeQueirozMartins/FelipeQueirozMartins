@@ -28,7 +28,7 @@ Estudante do Ensino Médio (conclusão em 12/2026) em busca de oportunidades em 
 🔗 [ver online](https://espanhasebastiao.netlify.app/)
 
 **[Meu Cartão Digital](https://github.com/FelipeQueiroz47/meu-cartao-digital)** — Cartão de visita pessoal online
-🔗 [ver online](https://stirring-khapse-b24275.netlify.app/)
+🔗 [ver online](https://cartaodigitalfelipe.netlify.app/)
 
 ---
 
