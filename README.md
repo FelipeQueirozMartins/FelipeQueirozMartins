@@ -3,7 +3,7 @@
 Estudante do Ensino Médio (conclusão em 12/2026) em busca de oportunidades em **Tecnologia da Informação** com interesse em Suporte Técnico, Análise de Dados e Desenvolvimento.
 
 - 🔭 Atualmente estudando **Python** e me preparando para uma primeira vaga na área
-- 🌱 Aprendendo **Python**
+- 🌱 Aprimorando **HTML, CSS e JS**
 - 💼 Hoje atuo como Jovem Aprendiz, com experiência em rotinas administrativas, controle de planilhas e atendimento
 - 📍 Mogi das Cruzes, SP
 - 📄 [Baixar meu currículo](https://stirring-khapse-b24275.netlify.app/curriculo.pdf)
