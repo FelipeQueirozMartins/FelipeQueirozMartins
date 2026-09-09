@@ -2,7 +2,7 @@
 
 Estudante do Ensino Médio (conclusão em 12/2026) em busca de oportunidades em **Tecnologia da Informação** com interesse em Suporte Técnico, Análise de Dados e Desenvolvimento.
 
-- 🔭 Atualmente estudando **lógica de programação** e me preparando para uma primeira vaga na área
+- 🔭 Atualmente estudando **Python** e me preparando para uma primeira vaga na área
 - 🌱 Aprendendo **Python**
 - 💼 Hoje atuo como Jovem Aprendiz, com experiência em rotinas administrativas, controle de planilhas e atendimento
 - 📍 Mogi das Cruzes, SP
